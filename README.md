@@ -3,6 +3,8 @@
 ## Prerequisite
 1. JDK 11
 2. Maven 3
+3. Postman Client (optional)
+4. Browser (optional)
 
 ## How to run the application
 1. Clone the source code with `git clone https://github.com/d1ck50n/mbb-assignment.git`
