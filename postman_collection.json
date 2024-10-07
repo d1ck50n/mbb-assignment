@@ -26,12 +26,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/transactions?accountNumbers=8872838299&page=1&size=10",
+					"raw": "http://localhost:8088/api/transactions?accountNumbers=8872838299&page=1&size=10",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8088",
 					"path": [
 						"api",
 						"transactions"
@@ -75,12 +75,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/transactions?accountNumbers=8872838299,8872838283&page=1&size=10",
+					"raw": "http://localhost:8088/api/transactions?accountNumbers=8872838299,8872838283&page=1&size=10",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8088",
 					"path": [
 						"api",
 						"transactions"
@@ -124,12 +124,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/transactions?customerId=222&page=1&size=10",
+					"raw": "http://localhost:8088/api/transactions?customerId=222&page=1&size=10",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8088",
 					"path": [
 						"api",
 						"transactions"
@@ -173,12 +173,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/transactions?description=TRANSFER&page=1&size=10",
+					"raw": "http://localhost:8088/api/transactions?description=TRANSFER&page=1&size=10",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8088",
 					"path": [
 						"api",
 						"transactions"
@@ -231,12 +231,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/transactions/2",
+					"raw": "http://localhost:8088/api/transactions/2",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8088",
 					"path": [
 						"api",
 						"transactions",
