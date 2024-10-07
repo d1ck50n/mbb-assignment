@@ -1,5 +1,9 @@
 
 # Wiki
+## Prerequisite
+1. JDK 11
+2. Maven 3
+
 ## How to run the application
 1. Clone the source code with `git clone https://github.com/d1ck50n/mbb-assignment.git`
 2. Go into the project directory and run `mvn package`
