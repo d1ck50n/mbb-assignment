@@ -1,5 +1,24 @@
 
 # Wiki
+
+## Introduction
+### The assignment details are as follows:
+ 
+1. Prepare a batch job to consume the attached text file.
+2. Prepare RESTFUL API to (1)Retrieve & (2) Update (description) the records
+3. Must have authentication
+4. Must have pagination
+5. Can search by customer ID or account number(s) or description
+6. For Update API, must able to handle concurrent update.
+ 
+### Notes :-
+1. Free to design the database structure.
+2. Allowed to use many classes. (OOP is preferable)
+3. Must follow RESTFUL API standard.
+4. Code need to be shared.
+5. Pls brief if you are using any Design pattern and why you choose it.
+6. Documentation is required. (Class diagram and activity diagram)
+
 ## Prerequisite
 1. JDK 11
 2. Maven 3
